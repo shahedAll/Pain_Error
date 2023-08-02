@@ -14,4 +14,4 @@ MDScreen:
         AppScreen=Builder.load_string(self.appKv)
         return AppScreen
 
-SampleApp().run()   
+Pain().run()   
